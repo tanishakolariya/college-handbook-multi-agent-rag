@@ -1,0 +1,7 @@
+smolagents
+sentence-transformers
+scikit-learn
+numpy
+pypdf
+requests
+python-dotenv
